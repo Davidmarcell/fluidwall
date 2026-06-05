@@ -1,0 +1,8 @@
+*.sln
+*.props
+fluidWall/*.vcxproj
+fluidWall/*.vcxproj.filters
+Debug/
+Release/
+x64/
+.vs/
